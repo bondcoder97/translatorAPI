@@ -1,0 +1,20 @@
+c:\users\администратор\documents\visual studio 2012\Projects\translator\translator\bin\Debug\translator.exe.config
+c:\users\администратор\documents\visual studio 2012\Projects\translator\translator\bin\Debug\translator.exe
+c:\users\администратор\documents\visual studio 2012\Projects\translator\translator\bin\Debug\translator.pdb
+c:\users\администратор\documents\visual studio 2012\Projects\translator\translator\bin\Debug\Newtonsoft.Json.dll
+c:\users\администратор\documents\visual studio 2012\Projects\translator\translator\obj\Debug\translator.csprojResolveAssemblyReference.cache
+c:\users\администратор\documents\visual studio 2012\Projects\translator\translator\obj\Debug\translator.Form1.resources
+c:\users\администратор\documents\visual studio 2012\Projects\translator\translator\obj\Debug\translator.Properties.Resources.resources
+c:\users\администратор\documents\visual studio 2012\Projects\translator\translator\obj\Debug\translator.csproj.GenerateResource.Cache
+c:\users\администратор\documents\visual studio 2012\Projects\translator\translator\obj\Debug\translator.exe
+c:\users\администратор\documents\visual studio 2012\Projects\translator\translator\obj\Debug\translator.pdb
+C:\Users\Администратор\Desktop\CosmosGIT\translatorAPI\translator\translator\bin\Debug\translator.exe.config
+C:\Users\Администратор\Desktop\CosmosGIT\translatorAPI\translator\translator\obj\Debug\translator.exe
+C:\Users\Администратор\Desktop\CosmosGIT\translatorAPI\translator\translator\obj\Debug\translator.pdb
+C:\Users\Администратор\Desktop\CosmosGIT\translatorAPI\translator\translator\bin\Debug\translator.exe
+C:\Users\Администратор\Desktop\CosmosGIT\translatorAPI\translator\translator\bin\Debug\translator.pdb
+C:\Users\Администратор\Desktop\CosmosGIT\translatorAPI\translator\translator\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Администратор\Desktop\CosmosGIT\translatorAPI\translator\translator\obj\Debug\translator.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Desktop\CosmosGIT\translatorAPI\translator\translator\obj\Debug\translator.Form1.resources
+C:\Users\Администратор\Desktop\CosmosGIT\translatorAPI\translator\translator\obj\Debug\translator.Properties.Resources.resources
+C:\Users\Администратор\Desktop\CosmosGIT\translatorAPI\translator\translator\obj\Debug\translator.csproj.GenerateResource.Cache
