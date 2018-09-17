@@ -1,1 +1,1 @@
-# translatorAPI
+This is my practise of Yandex API translator. You need to use your private key in this program in the place of code called "your key". You can receive it <a href="https://tech.yandex.ru/translate/">here</a>.
